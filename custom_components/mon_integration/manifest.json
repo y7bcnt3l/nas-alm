@@ -1,0 +1,6 @@
+json
+{
+  "name": "NAS ALM Integration",
+  "render_readme": true,
+  "hacs_version": "1.34.0"
+}
